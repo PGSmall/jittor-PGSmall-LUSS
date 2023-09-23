@@ -48,7 +48,7 @@
 无特定依赖项
 
 #### 预训练模型
-预训练模型模型包含R18和r34两个模型，分别放置在特定目录``./weithg/pass50_r18_bz128_ep400/pixel_finetuning_ep40_lr0.6_sz256/checkpoint.pth.tar``和``./weithg/pass50_r34_bz128_ep400/pixel_finetuning_ep40_lr0.6_sz384/checkpoint.pth.tar``。
+[预训练模型模型](https://pan.baidu.com/s/1VJeKOSVMAbh_KJdNRw4vdg?pwd=luss)包含R18和r34两个模型，分别放置在特定目录``./weithg/pass50_r18_bz128_ep400/pixel_finetuning_ep40_lr0.6_sz256/checkpoint.pth.tar``和``./weithg/pass50_r34_bz128_ep400/pixel_finetuning_ep40_lr0.6_sz384/checkpoint.pth.tar``。
 
 
 
